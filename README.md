@@ -7,15 +7,13 @@ FDU评教脚本。本工具仅用于技术学习与交流，**请同学们重视
 
 #### 1. 登录评教系统，选择一个任务并打开
 
-<img src="assets\image-20230509190759207.png" alt="image-20230509190759207" style="zoom:33%;" />
+完成这一步之后，你应该处在问卷填写的页面。你应该可以看到题目并选择答案。（例如：1、本课程清晰地说明了需要学习的知识和掌握的技能。）
 
 
 
 #### 2. 打开浏览器开发者工具-控制台
 
 一般浏览器中打开控制台的方法为：先按`F12`**或**`Ctrl+Shift+J`**或**在页面空白处右键->选择`检查(Inspect)`打开**开发者工具**，然后选择**控制台(Console)面板**。
-
-<img src="assets\image-20230509191611044.png" alt="image-20230509191611044" style="zoom:33%;" />
 
 
 
@@ -35,4 +33,4 @@ var js_src="//cdn.jsdelivr.net/gh/catlessfish/ce-fudan/ce.fudan.js";var src_node
 
 ------
 
-本项目的实现参考了@[KevinWang15/fdty: 复旦体育理论考试 自动做题器 (github.com)](https://github.com/KevinWang15/fdty)，特此说明并致意
+本项目的实现参考了@[KevinWang15/fdty: 复旦体育理论考试 自动做题器 (github.com)](https://github.com/KevinWang15/fdty)，使用方法也与之类似，特此说明并致意
