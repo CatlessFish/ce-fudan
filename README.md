@@ -7,7 +7,7 @@ FDU评教脚本。本工具仅用于技术学习与交流，**请同学们重视
 
 #### 1. 登录评教系统，选择一个任务并打开
 
-<img src="E:\Dev\ce-fudan\assets\image-20230509190759207.png" alt="image-20230509190759207" style="zoom:33%;" />
+<img src="assets\image-20230509190759207.png" alt="image-20230509190759207" style="zoom:33%;" />
 
 
 
@@ -15,7 +15,7 @@ FDU评教脚本。本工具仅用于技术学习与交流，**请同学们重视
 
 一般浏览器中打开控制台的方法为：先按`F12`**或**`Ctrl+Shift+J`**或**在页面空白处右键->选择`检查(Inspect)`打开**开发者工具**，然后选择**控制台(Console)面板**。
 
-<img src="E:\Dev\ce-fudan\assets\image-20230509191611044.png" alt="image-20230509191611044" style="zoom:33%;" />
+<img src="assets\image-20230509191611044.png" alt="image-20230509191611044" style="zoom:33%;" />
 
 
 
