@@ -1,5 +1,5 @@
 # 复旦评教-问卷自动填写机器
-FDU评教脚本。本工具仅用于技术学习与交流，**请同学们重视评教任务，认真完成评教。**
+FDU评教脚本。本工具仅用于技术学习与交流，**还请重视评教任务，认真完成评教。**
 
 
 
@@ -22,7 +22,7 @@ FDU评教脚本。本工具仅用于技术学习与交流，**请同学们重视
 ```
 var js_src="//cdn.jsdelivr.net/gh/catlessfish/ce-fudan/ce.fudan.js";var src_node = document.createElement("script");src_node.type = "text/javascript";src_node.src = js_src;document.getElementsByTagName("head")[0].appendChild(src_node);
 ```
-
+受网络状况影响，可能执行后需要稍等片刻才能看到结果。
 
 
 #### 4. 完成
